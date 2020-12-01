@@ -1,2 +1,4 @@
 #Windows thumbnail files
 *.db
+#Deflickered files
+*deflickered*
